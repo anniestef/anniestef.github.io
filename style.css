@@ -1,14 +1,14 @@
 body{
-	fond-family:Vendana;
+	font-family:Vendana;
 	font-size: 20px;
 	background-color:#efefef;
 }
 h2{
-	fond-size:27px;
+font-size: 27px;
 color: #ff8494;
 }
 h3{
-	fond-size:25px;
+font-size: 25px;
 color: orange;
 }
 header, footer{
